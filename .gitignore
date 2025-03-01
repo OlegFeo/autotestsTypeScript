@@ -1,0 +1,17 @@
+node_modules/
+/playwright-report/
+/playwright/.cache/
+/test-results
+
+### https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+.idea/*
+
+dist
+.env
+.env.preprod
+.env.test
+.env.dev
+.env.prod
+.env.stage
+
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "extends": "@byndyusoft/tsconfig/tsconfig.node16.json",
+  "compilerOptions": {
+    // Emit
+    "outDir": "./dist",
+    "resolveJsonModule": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
