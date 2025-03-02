@@ -7,11 +7,5 @@ node_modules/
 .idea/*
 
 dist
-.env
-.env.preprod
-.env.test
-.env.dev
-.env.prod
-.env.stage
 
 .DS_Store

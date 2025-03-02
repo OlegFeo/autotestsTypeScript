@@ -1,10 +1,10 @@
 {
-  "name": "lmru--returns--autotests",
+  "name": "autotestsTypeScript",
   "version": "1.0.0",
-  "description": "integrations tests using playwright",
+  "description": "Autotests infrastructure",
   "keywords": [],
   "license": "ISC",
-  "author": "Byndyusoft",
+  "author": "OlegFeo",
   "main": "index.js",
   "scripts": {
     "_playwright": "yarn playwright test",
