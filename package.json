@@ -32,7 +32,6 @@
   "devDependencies": {
     "@byndyusoft/eslint-config": "2.2.1",
     "@byndyusoft/tsconfig": "1.2.0",
-    "@lmrureturns/returns-creator-dtos": "^0.0.7-feature-RTN-600.9",
     "@playwright/test": "^1.36.0",
     "@types/qs": "^6",
     "@typescript-eslint/parser": "^5.62.0",
